@@ -1,0 +1,14 @@
+{
+  "name": "vinisbrown",
+  "owner": {
+    "name": "Vinis Brown"
+  },
+  "description": "Brownies artesanais da Vinis Brown: cardápio, estoque e pedidos pelo WhatsApp.",
+  "plugins": [
+    {
+      "name": "vinisbrown",
+      "source": "./",
+      "description": "Cardápio, estoque e pedidos de brownie da Vinis Brown pelo WhatsApp."
+    }
+  ]
+}

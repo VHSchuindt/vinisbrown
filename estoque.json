@@ -1,0 +1,24 @@
+{
+  "_ajuda": "Edite este arquivo para atualizar o cardapio. Mude 'quantidade' sempre que vender ou fizer mais brownies. Use ponto nos precos (8.50). Quantidade 0 = esgotado.",
+  "loja": "Vinis Brown",
+  "whatsapp": "556584018158",
+  "atualizado_em": "2026-11-18 12:00",
+  "aceitando_pedidos": true,
+  "aviso": "",
+  "entrega": {
+    "disponivel": true,
+    "taxa": 5.00,
+    "observacao": "Regiao e horario combinados pelo WhatsApp"
+  },
+  "retirada": {
+    "disponivel": true,
+    "observacao": "Endereco de retirada enviado pelo WhatsApp"
+  },
+  "pagamento": ["Pix", "Dinheiro", "Cartao na entrega"],
+  "produtos": [
+    { "id": "tradicional", "nome": "Brownie Tradicional", "preco": 8.00, "quantidade": 12 },
+    { "id": "ninho-nutella", "nome": "Brownie de Ninho com Nutella", "preco": 10.00, "quantidade": 8 },
+    { "id": "doce-de-leite", "nome": "Brownie de Doce de Leite", "preco": 9.00, "quantidade": 3 },
+    { "id": "oreo", "nome": "Brownie de Oreo", "preco": 10.00, "quantidade": 0 }
+  ]
+}

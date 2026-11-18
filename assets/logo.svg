@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Fundo -->
+  <circle cx="256" cy="256" r="240" fill="#F6E7D3" stroke="#4A2A18" stroke-width="14"/>
+  <circle cx="256" cy="256" r="218" fill="none" stroke="#C99A6B" stroke-width="3" stroke-dasharray="6 10"/>
+
+  <!-- Brownie -->
+  <g transform="translate(256 236) scale(1.12) translate(-261 -235)">
+  <g stroke-linejoin="round">
+    <!-- lado esquerdo -->
+    <polygon points="126,190 216,250 216,330 126,270" fill="#3E2213"/>
+    <!-- lado direito -->
+    <polygon points="216,250 396,200 396,280 216,330" fill="#52301C"/>
+    <!-- topo -->
+    <polygon points="126,190 306,140 396,200 216,250" fill="#6B3B22"/>
+    <!-- contorno -->
+    <path d="M126,190 L306,140 L396,200 L396,280 L216,330 L126,270 Z M126,190 L216,250 L396,200 M216,250 L216,330"
+          fill="none" stroke="#2A160C" stroke-width="5"/>
+  </g>
+
+  <!-- casquinha (camada de cima) -->
+  <path d="M128,204 L216,263 L394,214" fill="none" stroke="#7A4A2E" stroke-width="4"/>
+
+  <!-- rachaduras do topo -->
+  <g fill="none" stroke="#4E2A16" stroke-width="3" stroke-linecap="round">
+    <path d="M170,180 l18,6 l10,-8"/>
+    <path d="M262,160 l14,10 l16,-4"/>
+    <path d="M300,214 l12,-6 l16,6"/>
+    <path d="M205,226 l14,-4 l8,8"/>
+  </g>
+
+  <!-- calda de doce de leite -->
+  <polyline points="163.8,189.7 301.5,162.5 187.2,205.3 324.9,178.1 210.6,220.9 348.3,193.7 241.2,232.8"
+            fill="none" stroke="#E8B062" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- gotas de chocolate e nozes nas laterais -->
+  <g fill="#26130A">
+    <circle cx="150" cy="232" r="6"/>
+    <circle cx="186" cy="282" r="5"/>
+    <circle cx="170" cy="300" r="4"/>
+    <circle cx="258" cy="290" r="6"/>
+    <circle cx="318" cy="262" r="5"/>
+    <circle cx="362" cy="258" r="6"/>
+    <circle cx="290" cy="300" r="4"/>
+  </g>
+  <g fill="#A8703F">
+    <ellipse cx="200" cy="300" rx="6" ry="4"/>
+    <ellipse cx="340" cy="282" rx="6" ry="4"/>
+    <ellipse cx="146" cy="262" rx="5" ry="3.5"/>
+  </g>
+
+  </g>
+
+  <!-- Nome -->
+  <text x="256" y="404" text-anchor="middle" font-family="DejaVu Serif, Georgia, serif" font-weight="bold"
+        font-size="38" letter-spacing="2" fill="#4A2A18">VINIS BROWN</text>
+  <text x="256" y="434" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif"
+        font-size="16" letter-spacing="3" fill="#8A5233">BROWNIES ARTESANAIS</text>
+</svg>
