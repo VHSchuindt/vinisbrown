@@ -17,6 +17,12 @@ O pedido só fica confirmado quando a Vinis Brown responde no WhatsApp.
 
 ## Como instalar
 
+**Pelo arquivo (Claude ou ChatGPT)**
+
+1. Baixe o plugin: https://github.com/VHSchuindt/vinisbrown/raw/main/baixar/vinisbrown.zip
+2. **No Claude:** Customize > Plugins > Adicionar > **Fazer upload de plugin** e escolha o `.zip`.
+3. **No ChatGPT:** Plugins > Adicionar > **Enviar arquivo compactado do plugin** e escolha o `.zip`.
+
 **No Claude (site, app ou desktop)**
 
 1. Abra **Customize > Plugins**.

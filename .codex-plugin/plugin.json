@@ -1,0 +1,27 @@
+{
+  "name": "vinisbrown",
+  "version": "0.1.0",
+  "description": "Cardápio e pedidos da Vinis Brown: veja os sabores de brownie, quantos ainda tem disponível e faça o pedido com um link pronto do WhatsApp.",
+  "author": {
+    "name": "Vinis Brown",
+    "url": "https://github.com/VHSchuindt/vinisbrown"
+  },
+  "homepage": "https://github.com/VHSchuindt/vinisbrown",
+  "repository": "https://github.com/VHSchuindt/vinisbrown",
+  "license": "MIT",
+  "keywords": ["brownie", "pedido", "cardapio", "estoque", "whatsapp", "doces"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Vinis Brown",
+    "shortDescription": "Peça brownies pelo WhatsApp",
+    "longDescription": "Veja os sabores de brownie da Vinis Brown, os preços e quantos ainda tem disponível. Monte o pedido e receba um link do WhatsApp com a mensagem pronta: é só tocar em enviar. O pedido fica confirmado quando a loja responde.",
+    "developerName": "Vinis Brown",
+    "category": "Lifestyle",
+    "capabilities": [],
+    "websiteURL": "https://github.com/VHSchuindt/vinisbrown",
+    "defaultPrompt": ["Quais brownies tem hoje?", "Quero 2 brownies de Ninho", "Quero pedir brownie com entrega"],
+    "brandColor": "#4A2A18",
+    "composerIcon": "./assets/logo.png",
+    "logo": "./assets/logo.png"
+  }
+}
